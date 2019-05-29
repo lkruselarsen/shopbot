@@ -1,0 +1,5 @@
+Guide: Edit main.py so paths to the two vb scripts work. Edit the two with all your personal shopping details.
+Run main.py 1-2min before bot is to be executed. Load the "new products" shopping page, Execute with following short cuts.
+Q=refresh 
+A=pick size + put in basket + load checkout + input all your details
+Z= inputs your details into any field available
